@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "946039711923",
+    "firebase_url": "https://hellodb-5c06c.firebaseio.com",
+    "project_id": "hellodb-5c06c",
+    "storage_bucket": "hellodb-5c06c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946039711923:android:bac41e1c4ccdf88a",
+        "android_client_info": {
+          "package_name": "com.elclair.flutter_app_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946039711923-rr60jimpuhur8tjsc09uvk2jv4dhlc00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbeh_PqPQQPX2qaO2JddjtUUU3kHNkESs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946039711923-rr60jimpuhur8tjsc09uvk2jv4dhlc00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946039711923:android:e180818a0b2a02e0",
+        "android_client_info": {
+          "package_name": "com.elclair.flutter_app_test_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946039711923-rr60jimpuhur8tjsc09uvk2jv4dhlc00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbeh_PqPQQPX2qaO2JddjtUUU3kHNkESs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946039711923-rr60jimpuhur8tjsc09uvk2jv4dhlc00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
